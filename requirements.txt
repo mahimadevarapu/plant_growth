@@ -1,0 +1,7 @@
+# requirements.txt (Corrected)
+pandas
+numpy
+joblib
+streamlit
+Flask
+scikit-learn==1.6.1 # PINNED TO MATCH TRAINING VERSION
